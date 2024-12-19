@@ -14,7 +14,7 @@ Il progetto ha lo scopo di:
 
 ---
 
-## 📦 Struttura dei Repositori
+## 📦 Struttura del progetto
 
 L'organizzazione raccoglie i seguenti componenti:
 
